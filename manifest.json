@@ -1,0 +1,11 @@
+{
+    "name"       : "node my ride",
+    "pages"      : ["pages/one.md", "pages/two.md"],
+    "css"        : ["pages/css/styles.css"],
+    "less"       : ["pages/css/otherstyles.less"],
+    "js"         : ["pages/js/javascripts.js"],
+//    "images"     : ["pages/img/imgOne.png", "pages/img/imgTwo.jpg"],
+    "imageTitle" : "logo/nodemyride.png",
+    "singlePage" : true,
+    "tocLevel"   : 4
+}
