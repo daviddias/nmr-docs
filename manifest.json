@@ -1,6 +1,6 @@
 {
     "name"       : "node my ride",
-    "pages"      : ["pages/one.md", "pages/two.md"],
+    "pages"      : ["pages/one.md", "pages/two.md", "pages/raspi-setup.md"],
     "css"        : ["pages/css/styles.css"],
     "less"       : ["pages/css/otherstyles.less"],
     "js"         : ["pages/js/javascripts.js"],
